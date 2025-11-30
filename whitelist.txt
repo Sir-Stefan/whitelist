@@ -157,3 +157,12 @@ twitch.tv
 ttvnw.net
 jtvnw.net
 twitchcdn.net
+
+# ---------------------------
+# BINANCE
+# ---------------------------
+binance.com
+binance.net
+bnbstatic.com
+binstatic.com
+binancecloudapi.com
