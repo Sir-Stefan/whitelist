@@ -166,3 +166,19 @@ binance.net
 bnbstatic.com
 binstatic.com
 binancecloudapi.com
+
+# ---------------------------
+# SKY DEUTSCHLAND / WOW
+# ---------------------------
+sky.de
+wowtv.de
+sky.com
+skyassets.com
+skygo.de
+skygo.com
+skymedia.de
+skymedia.com
+bcovlive.io
+brightcove.com
+brightcove.net
+llnwd.net
