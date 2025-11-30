@@ -1,0 +1,159 @@
+# ---------------------------
+# BITWARDEN
+# ---------------------------
+bitwarden.com
+vault.bitwarden.com
+api.bitwarden.com
+identity.bitwarden.com
+events.bitwarden.com
+
+# ---------------------------
+# WHATSAPP (nur essentielle)
+# ---------------------------
+whatsapp.com
+whatsapp.net
+mmg.whatsapp.net
+static.whatsapp.net
+
+# ---------------------------
+# TELEGRAM
+# ---------------------------
+telegram.org
+t.me
+telegram.me
+tdesktop.com
+
+# ---------------------------
+# SIGNAL
+# ---------------------------
+signal.org
+cdn.signal.org
+
+# ---------------------------
+# DISCORD (essentielle Dienste)
+# ---------------------------
+discord.com
+discord.gg
+discord.media
+discordapp.com
+discordapp.net
+
+# ---------------------------
+# WINDOWS (Update, Login, Network-Check)
+# ---------------------------
+windowsupdate.com
+update.microsoft.com
+microsoft.com
+live.com
+msftconnecttest.com
+msftncsi.com
+office.com
+outlook.com
+onedrive.com
+skype.com
+
+# ---------------------------
+# ANDROID / GOOGLE (Push, Play Store)
+# ---------------------------
+google.com
+gstatic.com
+googleapis.com
+gvt1.com
+gvt2.com
+play.googleapis.com
+firebaseio.com
+fcm.googleapis.com
+1e100.net
+
+# ---------------------------
+# LINUX (Update-Server)
+# NOTE: Distro-unabhängig
+# ---------------------------
+ubuntu.com
+debian.org
+debian.net
+archlinux.org
+manjaro.org
+fedora.org
+fedoraproject.org
+redhat.com
+kernel.org
+launchpad.net
+canonical.com
+snapcraft.io
+pypi.org
+github.com
+githubusercontent.com
+
+# ---------------------------
+# STEAM
+# ---------------------------
+steampowered.com
+steamstatic.com
+steamcontent.com
+steamcdn-a.akamaihd.net
+steamcommunity.com
+
+# ---------------------------
+# PLAYSTATION NETWORK
+# ---------------------------
+playstation.com
+playstation.net
+sonyentertainmentnetwork.com
+sony.com
+
+# ---------------------------
+# XBOX / MICROSOFT GAMING
+# ---------------------------
+xboxlive.com
+xboxservices.com
+xbox.com
+gamepass.com
+msftconnecttest.com
+
+# ---------------------------
+# BATTLE.NET / BLIZZARD
+# ---------------------------
+battle.net
+blizzard.com
+blzstatic.com
+
+# ---------------------------
+# EPIC GAMES
+# ---------------------------
+epicgames.com
+unrealengine.com
+fortnite.com
+
+# ---------------------------
+# HOME ASSISTANT
+# ---------------------------
+home-assistant.io
+pythonhosted.org
+pypi.org
+githubusercontent.com
+github.com
+dns.home.arpa
+
+# ---------------------------
+# PAYBACK TRACKING (bewusst erlaubt!)
+# ---------------------------
+payback.de
+api.payback.de
+api.payback.it
+pbcpg.payback.de
+
+# ---------------------------
+# SHOOP TRACKING (bewusst erlaubt!)
+# ---------------------------
+shoop.de
+tracking.shoop.de
+cdn.shoop.de
+
+# ---------------------------
+# TWITCH
+# ---------------------------
+twitch.tv
+ttvnw.net
+jtvnw.net
+twitchcdn.net
